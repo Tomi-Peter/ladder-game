@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import LadderCanvas from './LadderCanvas'
 import generateLadder from '../utils/ladderGenerator'
 import LADDER_CONFIG from '../config/ladderConfig'
+import './styles/ladder.css'
+
 
 const FIXED_COLORS = [
   '#e6194b', '#3cb44b', '#ffe119', '#4363d8',
