@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import LadderCanvas from './LadderCanvas'
 import generateLadder from '../utils/ladderGenerator'
 import LADDER_CONFIG from '../config/ladderConfig'
-import './styles/ladder.css'
+import '../styles/ladder.css'
 
 
 const FIXED_COLORS = [
