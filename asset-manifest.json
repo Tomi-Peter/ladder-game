@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ladder-game/static/css/main.66749437.css",
+    "main.js": "/ladder-game/static/js/main.f0e02f2c.js",
+    "index.html": "/ladder-game/index.html",
+    "main.66749437.css.map": "/ladder-game/static/css/main.66749437.css.map",
+    "main.f0e02f2c.js.map": "/ladder-game/static/js/main.f0e02f2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66749437.css",
+    "static/js/main.f0e02f2c.js"
+  ]
+}
